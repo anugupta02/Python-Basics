@@ -1,0 +1,20 @@
+localhost:8889/tree
+
+how to generate date in pandas
+localhost:8889/notebooks/Untitled179.ipynb
+use db
+show tables;
+
+import pandas as pd
+import sqlalchemy
+import numpy as np
+import pymysql
+
+#mysql+librarymodule://username:password@ip:port/dbname'
+#database cnnection name
+con=sqlalchemy.create_engine('mysql+pymsql://root:root@localhost/db')
+
+zip function in python- Self Study
+
+pip install pymysql
+pip install sqlalchemy

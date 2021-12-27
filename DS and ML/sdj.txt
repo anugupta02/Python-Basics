@@ -1,0 +1,6 @@
+import pyspark
+sc.stop()
+sc=pyspark.SparkContext()
+txt=sc.textFile('sdj.txt')
+print(txt.count)
+print(txt)

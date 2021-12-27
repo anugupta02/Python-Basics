@@ -1,0 +1,13 @@
+#Regression:--> Pandas Full Form is Panel Data
+
+There are 3 types of data structures for Pandas:
+
+a) 1-Dimensional  Data Series
+b) 2-Dimensional  Data Frame
+c) 3-Dimensional  Panel Data
+
+
+a) 1 Dimesional data series is a heterogenous data type that have only 1 column and the syntax of series is :
+
+s=pd.Series(data,index,copy,dtype)
+NOTE: Index always starts with zero
